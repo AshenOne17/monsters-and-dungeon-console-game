@@ -1,0 +1,67 @@
+﻿  GameFunctions.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(162,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(172,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(10,14): warning C4820: 'Creature': '3' bytes padding added after data member 'Creature::m_ch'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.h(30,13): warning C4820: 'Monster::MonsterData': '3' bytes padding added after data member 'Monster::MonsterData::symbol'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Player.h(19,1): warning C4820: 'Player': '4' bytes padding added after data member 'Player::m_level'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(292,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(308,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(325,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(388,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(162,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(172,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(10,14): warning C4820: 'Creature': '3' bytes padding added after data member 'Creature::m_ch'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.h(30,13): warning C4820: 'Monster::MonsterData': '3' bytes padding added after data member 'Monster::MonsterData::symbol'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Player.h(19,1): warning C4820: 'Player': '4' bytes padding added after data member 'Player::m_level'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(292,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(308,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(325,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(388,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(18,14): warning C4514: 'Creature::getName': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(20,7): warning C4514: 'Creature::getSymbol': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(22,6): warning C4514: 'Creature::getHealth': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(24,6): warning C4514: 'Creature::getDamage': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(28,7): warning C4514: 'Creature::reduceHealth': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(30,7): warning C4514: 'Creature::damageIncrease': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(32,7): warning C4514: 'Creature::addGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(34,7): warning C4514: 'Creature::reduceGold': unreferenced inline function has been removed
+  Monster.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(162,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(172,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(10,14): warning C4820: 'Creature': '3' bytes padding added after data member 'Creature::m_ch'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.h(30,13): warning C4820: 'Monster::MonsterData': '3' bytes padding added after data member 'Monster::MonsterData::symbol'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Player.h(19,1): warning C4820: 'Player': '4' bytes padding added after data member 'Player::m_level'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(22,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(30,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(22,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(25,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(25,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(18,14): warning C4514: 'Creature::getName': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(20,7): warning C4514: 'Creature::getSymbol': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(22,6): warning C4514: 'Creature::getHealth': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(24,6): warning C4514: 'Creature::getDamage': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(26,6): warning C4514: 'Creature::getGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(28,7): warning C4514: 'Creature::reduceHealth': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(30,7): warning C4514: 'Creature::damageIncrease': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(32,7): warning C4514: 'Creature::addGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(34,7): warning C4514: 'Creature::reduceGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Player.h(17,6): warning C4514: 'Player::getLevel': unreferenced inline function has been removed
+  Player.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(162,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(172,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(10,14): warning C4820: 'Creature': '3' bytes padding added after data member 'Creature::m_ch'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.h(30,13): warning C4820: 'Monster::MonsterData': '3' bytes padding added after data member 'Monster::MonsterData::symbol'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Player.h(19,1): warning C4820: 'Player': '4' bytes padding added after data member 'Player::m_level'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(18,14): warning C4514: 'Creature::getName': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(20,7): warning C4514: 'Creature::getSymbol': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(22,6): warning C4514: 'Creature::getHealth': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(24,6): warning C4514: 'Creature::getDamage': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(26,6): warning C4514: 'Creature::getGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(28,7): warning C4514: 'Creature::reduceHealth': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(30,7): warning C4514: 'Creature::damageIncrease': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(32,7): warning C4514: 'Creature::addGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Creature.h(34,7): warning C4514: 'Creature::reduceGold': unreferenced inline function has been removed
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Player.h(17,6): warning C4514: 'Player::getLevel': unreferenced inline function has been removed
+  Generating Code...
+  monsters-and-dungeon-console-game.vcxproj -> C:\Users\artem\source\repos\monsters-and-dungeon-console-game\x64\Debug\monsters-and-dungeon-console-game.exe

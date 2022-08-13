@@ -1,0 +1,80 @@
+﻿  Creature.cpp
+  GameFunctions.cpp
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,6): error C2182: 'attackMonster': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,20): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,28): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,31): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,40): error C2065: 'm': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,6): error C2182: 'attackPlayer': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,19): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,27): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,30): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,39): error C2065: 'm': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9,6): error C2182: 'storeCheck': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9,17): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9,25): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11,6): error C2182: 'playerInfo': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11,17): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11,25): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,6): error C2182: 'monsterInfo': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,18): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,27): error C2065: 'm': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15,6): error C2182: 'fightMonster': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15,19): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15,27): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(15,6): error C2365: 'attackMonster': redefinition; previous definition was 'data variable'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5): message : see declaration of 'attackMonster'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(34,6): error C2365: 'attackPlayer': redefinition; previous definition was 'data variable'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7): message : see declaration of 'attackPlayer'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(44,6): error C2365: 'storeCheck': redefinition; previous definition was 'data variable'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9): message : see declaration of 'storeCheck'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(151,6): error C2365: 'playerInfo': redefinition; previous definition was 'data variable'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11): message : see declaration of 'playerInfo'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(163,6): error C2365: 'monsterInfo': redefinition; previous definition was 'data variable'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13): message : see declaration of 'monsterInfo'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(173,6): error C2365: 'fightMonster': redefinition; previous definition was 'data variable'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15): message : see declaration of 'fightMonster'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(197,5): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(204,4): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(205,4): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(210,4): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(217,4): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.cpp(223,4): error C2064: term does not evaluate to a function taking 1 arguments
+  main.cpp
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,31): error C2061: syntax error: identifier 'Monster'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,30): error C2061: syntax error: identifier 'Monster'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,6): error C2182: 'monsterInfo': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,18): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,27): error C2065: 'm': undeclared identifier
+  Monster.cpp
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,6): error C2182: 'attackMonster': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,20): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,28): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,31): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(5,40): error C2065: 'm': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,6): error C2182: 'attackPlayer': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,19): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,27): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,30): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(7,39): error C2065: 'm': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9,6): error C2182: 'storeCheck': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9,17): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(9,25): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11,6): error C2182: 'playerInfo': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11,17): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(11,25): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,6): error C2182: 'monsterInfo': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,18): error C2065: 'Monster': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(13,27): error C2065: 'm': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15,6): error C2182: 'fightMonster': illegal use of type 'void'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15,19): error C2065: 'Player': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\GameFunctions.h(15,27): error C2065: 'p': undeclared identifier
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(13,31): error C2086: 'Monster::MonsterData Monster::monsterData[12]': redefinition
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.h(45): message : see declaration of 'monsterData'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(21,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(29,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(21,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(24,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\artem\source\repos\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(24,17): warning C4309: 'initializing': truncation of constant value
+  Player.cpp
+  Generating Code...
